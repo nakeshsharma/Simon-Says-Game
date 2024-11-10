@@ -2,6 +2,9 @@
 
 A web-based implementation of the classic memory game "Simon Says". Test your memory and see how many levels you can complete!
 
+## Live site 
+https://nakeshsharma.github.io/Simon-Says-Game/
+
 
 
 ## Features
@@ -9,6 +12,12 @@ A web-based implementation of the classic memory game "Simon Says". Test your me
 - Randomized game sequences for each level
 - Visual and audio feedback for user interactions
 - Score tracking and game over message
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/128843a6-4164-452f-98d6-6d5bc00357fe)
+![image](https://github.com/user-attachments/assets/b1641a27-c216-4190-9dbd-bc794a024b67)
+
+
 
 
 ## Technologies Used
